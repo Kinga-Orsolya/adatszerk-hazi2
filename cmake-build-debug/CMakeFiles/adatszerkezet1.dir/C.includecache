@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/user/Desktop/I. ev Sapi/2. FELEV/programozas 2/adatszerkezet1/main.c
+stdio.h
+-
+sumfunctions.h
+C:/Users/user/Desktop/I. ev Sapi/2. FELEV/programozas 2/adatszerkezet1/sumfunctions.h
+minmaxfunctions.h
+C:/Users/user/Desktop/I. ev Sapi/2. FELEV/programozas 2/adatszerkezet1/minmaxfunctions.h
+tombfunctions.h
+C:/Users/user/Desktop/I. ev Sapi/2. FELEV/programozas 2/adatszerkezet1/tombfunctions.h
+
+C:/Users/user/Desktop/I. ev Sapi/2. FELEV/programozas 2/adatszerkezet1/minmaxfunctions.h
+
+C:/Users/user/Desktop/I. ev Sapi/2. FELEV/programozas 2/adatszerkezet1/sumfunctions.h
+
+C:/Users/user/Desktop/I. ev Sapi/2. FELEV/programozas 2/adatszerkezet1/tombfunctions.h
+
